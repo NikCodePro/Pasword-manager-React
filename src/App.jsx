@@ -9,7 +9,7 @@ function App() {
       </div></div>
       <Manager />
 
-      <h1 className="text-red-600">this is app.jsx</h1>
+      {/* <h1 className="text-red-600">this is app.jsx</h1  > */}
     </div>
   )
 }
